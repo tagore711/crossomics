@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset files (download separately via instructions in data/README.md)
+data/**/*.csv
+data/*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / IDE
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/

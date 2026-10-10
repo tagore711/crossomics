@@ -1,0 +1,52 @@
+prediction for mrna data: 
+              precision    recall  f1-score   support
+
+           0     0.7143    1.0000    0.8333         5
+           1     1.0000    0.9375    0.9677        32
+
+    accuracy                         0.9459        37
+   macro avg     0.8571    0.9688    0.9005        37
+weighted avg     0.9614    0.9459    0.9496        37
+
+prediction for met data: 
+              precision    recall  f1-score   support
+
+           0     0.8333    1.0000    0.9091         5
+           1     1.0000    0.9688    0.9841        32
+
+    accuracy                         0.9730        37
+   macro avg     0.9167    0.9844    0.9466        37
+weighted avg     0.9775    0.9730    0.9740        37
+
+prediction for cna data: 
+              precision    recall  f1-score   support
+
+           0     0.3333    0.4000    0.3636         5
+           1     0.9032    0.8750    0.8889        32
+
+    accuracy                         0.8108        37
+   macro avg     0.6183    0.6375    0.6263        37
+weighted avg     0.8262    0.8108    0.8179        37
+
+prediction for rppa data: 
+              precision    recall  f1-score   support
+
+           0     0.6667    0.4000    0.5000         5
+           1     0.9118    0.9688    0.9394        32
+
+    accuracy                         0.8919        37
+   macro avg     0.7892    0.6844    0.7197        37
+weighted avg     0.8786    0.8919    0.8800        37
+
+prediction for all the omics data: 
+              precision    recall  f1-score   support
+
+           0     0.8333    1.0000    0.9091         5
+           1     1.0000    0.9688    0.9841        32
+
+    accuracy                         0.9730        37
+   macro avg     0.9167    0.9844    0.9466        37
+weighted avg     0.9775    0.9730    0.9740        37
+
+Training time : 9.829669 seconds
+

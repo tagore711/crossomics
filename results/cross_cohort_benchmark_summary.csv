@@ -1,0 +1,6 @@
+TCGA Cohort,Patients (N),Subtypes (C),Accuracy,Macro-F1,Weighted-F1,AUROC (OvR)
+TCGA-LGG (Brain Lower Grade Glioma),421,3,0.9786 ± 0.0047,0.9751 ± 0.0065,0.9790 ± 0.0046,0.9975 ± 0.0030
+TCGA-BRCA (Breast Invasive Carcinoma),787,5,0.8069 ± 0.0199,0.7709 ± 0.0359,0.8130 ± 0.0177,0.9482 ± 0.0235
+TCGA-UCEC (Uterine Corpus Endometrial),405,4,0.8247 ± 0.0394,0.7846 ± 0.0461,0.8218 ± 0.0387,0.9362 ± 0.0158
+TCGA-CESC (Cervical Squamous Cell),294,3,0.8265 ± 0.0124,0.7874 ± 0.0152,0.8216 ± 0.0123,0.9478 ± 0.0064
+TCGA-STAD (Stomach Adenocarcinoma),311,5,0.7977 ± 0.0638,0.7011 ± 0.0622,0.8096 ± 0.0576,0.8942 ± 0.0437
